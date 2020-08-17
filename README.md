@@ -5,7 +5,7 @@ HelpFWD/Covid-Info.gr Project Telephony Automation Requests System
 ![alt text](https://github.com/georgetomzaridis/helpfwd-covid19/blob/master/screenshots/helpfwd-site.png "HelpFWD Website")
 
 #### HelpFWD Requests List
-![alt text](https://github.com/georgetomzaridis/helpfwd-covid19/blob/master/screenshots/people-help-requests "HelpFWD Requests List")
+![alt text](https://github.com/georgetomzaridis/helpfwd-covid19/blob/master/screenshots/people-help-requests.png "HelpFWD Requests List")
 
 ## Information
 HelpFWD is a “Hack Covid 19” initiative spawned during the coronavirus outbreak of early 2020. The idea is to provide a modern web application to the public for those to help people that cannot commute for their basic day to day needs such as food supplies, medicine etc. (https://covid-info.gr / https://helpfwd.com)
