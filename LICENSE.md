@@ -1,52 +1,4 @@
-# helpfwd-covid19
-HelpFWD/Covid-Info.gr Project Telephony Automation Requests System
-
-#### HelpFWD Website
-![alt text](https://github.com/georgetomzaridis/helpfwd-covid19/blob/master/screenshots/helpfwd-site.png "HelpFWD Website")
-
-#### HelpFWD Requests List
-![alt text](https://github.com/georgetomzaridis/helpfwd-covid19/blob/master/screenshots/people-help-requests "HelpFWD Requests List")
-
-## Information
-HelpFWD is a “Hack Covid 19” initiative spawned during the coronavirus outbreak of early 2020. The idea is to provide a modern web application to the public for those to help people that cannot commute for their basic day to day needs such as food supplies, medicine etc. (https://covid-info.gr / https://helpfwd.com)
-
-## Why telephony?
-We want all kind of people to be able to access the platform either online either offline (over-age people).
-
-## How it works?
-![alt text](https://github.com/georgetomzaridis/helpfwd-covid19/blob/master/screenshots/helpfwd-infrastucture-pbx.png "HelpFWD Telephony System Structure")
-
-Lets assume that George wants to go outside to get some fresh food but due to COVID-19 pandemic they can't because is over 65 years old and its a little bit risky for him.
-1) George calls our 24/7 help request system (+302103005173) and report that need help with supermarket.
-2) Automatically the system tries to search the caller location if calls from a landline, from the Public Telephony Catalog (11888.gr Hellenic Telecommunications Organisation S.A).
-3) System gets location information about this caller if is available (only landline).
-4) The system asks George using text-to-speech technology if this address is correct.
-5) George confirms that this address is correct [If is not then George can tell the system the correct address using speech-to-text recognision].
-6) Asterisk communicates with Website API Gateway and opens a new request with the above info that George provide (Contact Phone Number, Help Type, Date time, Caller Location).
-7) Automatically the system inform George that the request submited successfully and forwards right away the help request to the volunteer groups.
-8) If one volunteer group accepts the request, then they can see the sensitive information and contact George to help out!
-
-## System Structure
-1. Asterisk PBX: Handling the incoming calls, user input (DMTF/Numbers/Speech), system responses.
-2. Telephony Catalog Script: Search and scrap the 11888.gr website to get the require data and convert it to JSON format.
-3. API Gateway: Retrieve/Create new help requests, subscribe volunteers to HelpFWD Nnotification Network (Email/SMS).
-
-## Links
-
-1. HelpFWD: [https://helpfwd.com](https://helpfwd.com)
-2. Covid-Info.gr: [https://covid-info.gr](https://covid-info.gr)
-3. Asterisk PBX: [https://www.asterisk.org/](https://www.asterisk.org/)
-4. Public Telephony Catalog 11888.gr: [https://www.11888.gr/antistrofh-anazhthsh-me-arithmo-thlefwnou/] (https://www.11888.gr/antistrofh-anazhthsh-me-arithmo-thlefwnou/)
-
-## Questions
-If you have questions please email me!
-* Email: georgetomzaridis@gmail.com
-
-## License
-
-   Copyright 2020 George Tomzaridis
-
-                                Apache License
+      Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -222,3 +174,4 @@ If you have questions please email me!
       of your accepting any such warranty or additional liability.
 
    END OF TERMS AND CONDITIONS
+
