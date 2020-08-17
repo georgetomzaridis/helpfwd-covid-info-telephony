@@ -29,7 +29,7 @@ Lets assume that George wants to go outside to get some fresh food but due to CO
 ## System Structure
 1. Asterisk PBX: Handling the incoming calls, user input (DMTF/Numbers/Speech), system responses.
 2. Telephony Catalog Script: Search and scrap the 11888.gr website to get the require data and convert it to JSON format.
-3. API Gateway: Retrieve/Create new help requests, subscribe volunteers to HelpFWD Nnotification Network (Email/SMS).
+3. API Gateway: Retrieve/Create new help requests, subscribe volunteers to HelpFWD Notification Network (Email/SMS).
 
 ## Links
 
