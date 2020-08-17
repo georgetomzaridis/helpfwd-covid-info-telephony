@@ -36,7 +36,7 @@ Lets assume that George wants to go outside to get some fresh food but due to CO
 1. HelpFWD: [https://helpfwd.com](https://helpfwd.com)
 2. Covid-Info.gr: [https://covid-info.gr](https://covid-info.gr)
 3. Asterisk PBX: [https://www.asterisk.org/](https://www.asterisk.org/)
-4. Public Telephony Catalog 11888.gr: [https://www.11888.gr/antistrofh-anazhthsh-me-arithmo-thlefwnou/] (https://www.11888.gr/antistrofh-anazhthsh-me-arithmo-thlefwnou/)
+4. Public Telephony Catalog 11888.gr: [https://www.11888.gr/antistrofh-anazhthsh-me-arithmo-thlefwnou/](https://www.11888.gr/antistrofh-anazhthsh-me-arithmo-thlefwnou/)
 
 ## Questions
 If you have questions please email me!
