@@ -14,7 +14,7 @@ HelpFWD is a “Hack Covid 19” initiative spawned during the coronavirus outbr
 We want all kind of people to be able to access the platform either online either offline (over-age people).
 
 ## How it works?
-![alt text](https://github.com/georgetomzaridis/helpfwd-covid19/blob/master/screenshots/helpfwd-infrastucture-pbx.png "HelpFWD Telephony System Structure")
+![alt text](https://georgetomzaridis.github.io/helpfwd-covid-info-telephony/screenshots/helpfwd-infrastucture-pbx.png "HelpFWD Telephony System Structure")
 
 Lets assume that George wants to go outside to get some fresh food but due to COVID-19 pandemic they can't because is over 65 years old and its a little bit risky for him.
 1) George calls our 24/7 help request system (+302103005173) and report that need help with supermarket.
